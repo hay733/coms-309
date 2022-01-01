@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Scout</string>
+    <string name="response">Response:</string>
+    <string name="location">Location</string>
+    <string name="image_request">Image Request</string>
+    <string name="todo">TODO</string>
+    <string name="map">Map</string>
+    <string name="weather">Weather</string>
+    <string name="calendar">Calendar</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="map_key" translatable="false">AIzaSyBo3DOUiJDZTG21CtQhRoL-JBO4MeYYQ_o</string>
+    <string name="add">ADD</string>
+    <string name="name">Name</string>
+    <string name="schedule">Schedule</string>
+    <string name="Start">Start Time</string>
+    <string name="End">End Time</string>
+</resources>

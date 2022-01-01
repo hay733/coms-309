@@ -1,0 +1,6 @@
+com.cs309.scout
+com.cs309.scout.controller
+com.cs309.scout.entity
+com.cs309.scout.repository
+com.cs309.scout.service
+com.cs309.scout.tests

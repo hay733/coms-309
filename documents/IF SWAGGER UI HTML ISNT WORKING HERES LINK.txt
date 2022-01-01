@@ -1,0 +1,3 @@
+ScoutApp must be running on localhost 8080 to work
+
+http://localhost:8080/swagger-ui.html#/

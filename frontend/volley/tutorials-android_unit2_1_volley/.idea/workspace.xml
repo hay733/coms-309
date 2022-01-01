@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b02d9ad4-1544-4771-942e-418f489a7ad0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ScoutApp/.idea/render.experimental.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ScoutApp/app/src/main/res/layout/fragment_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ScoutApp/app/src/main/res/layout/fragment_map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/ImageRequestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/ImageRequestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/JsonRequestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/JsonRequestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/StringRequestActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/StringRequestActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/net_utils/LruBitmapCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/java/com/example/test/net_utils/LruBitmapCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_string.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/app/src/main/res/layout/activity_string.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\byu_p\OneDrive\Documents\coms309\2_do_1\frontend\volley\tutorials-android_unit2_1_volley\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z0oKpKcfYty68WPBpmIQbm2x5m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02d9ad4-1544-4771-942e-418f489a7ad0" name="Default Changelist" comment="" />
+      <created>1633294304330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633294304330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
